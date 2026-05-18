@@ -2,7 +2,7 @@
   "settings": {
     "path": "@PROJECT_PATH@",
     "name": "HireAI - AI Resume Maker and Job Search Platform-clone",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "ai": {
       "prompt": "Create a modern AI startup website for “HireAI” — an AI resume maker and AI-powered job search platform. Include a hero section, resume builder features, AI job matching, interview preparation, pricing plans, testimonials, FAQ, and contact form. Use a clean futuristic design with blue and purple gradients.\r\n",
       "imageSearchQuery": "futuristic"
